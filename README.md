@@ -1,2 +1,2 @@
-# bindya-projrct
+# bindya-project
 Git and Github
